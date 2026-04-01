@@ -8,6 +8,8 @@ function Home() {
       <h1>Attendance Management System</h1>
       <p>Manage student attendance easily</p>
 
+      
+
       <div style={{ marginTop: "30px" }}>
         <Link to="/teacher">
           <button style={btnStyle}>Teacher Login</button>
